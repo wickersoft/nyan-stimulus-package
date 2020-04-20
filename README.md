@@ -8,7 +8,7 @@
 We want to collect enough money to increase the slot limit to 34 and the server RAM to 6GB for 2-4 months. This costs about 10€ ($11 US, $17 AU) per month. All funds will go to Nyan’s account regardless of how much we raise. Nitrado does not pay out refunds.
 
 ## Strategy:
-Brainiac is providing an account where the money will be held until there is enough to give Nyan a sufficient surprise (think 40€, enough for 2 months). After the first package we can either donate directly or collect it for one-month packages until the project reaches its conclusion.
+Brainiac is providing an account where the money will be held until there is enough to give Nyan a sufficient surprise (think 40€, enough for 4 months). After the first package we can either donate directly or collect it for one-month packages until the project reaches its conclusion.
 
 ## Instructions:
 If you would like to contribute 5-10€ to the project, you can do so using PayPal or credit card. Our host is called Nitrado and here’s how to navigate the website
