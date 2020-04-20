@@ -1,6 +1,7 @@
 # NyanCat Stimulus Package Project
 *Secretly raising money to increase Server Power for the duration of the Coronavirus lockdown*
 
+![Nyan on the $100 bill](https://github.com/wickersoft/nyan-stimulus-package/raw/master/nyan.jpg "Nyan on the $100 bill")
 
 **Due to the worldwide lockdown**, we have been seeing a distinct rise in activity on the server, occasionally hitting the current slot limit. The People of the Server have decided to secretly raise a little donation package for Nyan to increase the server capacity for the duration of the lockdown.
 
