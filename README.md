@@ -5,7 +5,7 @@
 **Due to the worldwide lockdown**, we have been seeing a distinct rise in activity on the server, occasionally hitting the current slot limit. The People of the Server have decided to secretly raise a little donation package for Nyan to increase the server capacity for the duration of the lockdown.
 
 ## Scope:
-We want to collect enough money to increase the slot limit to 32 and the server RAM to 8GB for 2-4 months. This costs about 20€ ($22 US, $34 AU) per month. All funds will go to Nyan’s account regardless of how much we raise. Nitrado does not pay out refunds.
+We want to collect enough money to increase the slot limit to 34 and the server RAM to 6GB for 2-4 months. This costs about 10€ ($11 US, $17 AU) per month. All funds will go to Nyan’s account regardless of how much we raise. Nitrado does not pay out refunds.
 
 ## Strategy:
 Brainiac is providing an account where the money will be held until there is enough to give Nyan a sufficient surprise (think 40€, enough for 2 months). After the first package we can either donate directly or collect it for one-month packages until the project reaches its conclusion.
