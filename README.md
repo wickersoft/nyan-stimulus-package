@@ -2,10 +2,10 @@
 *Secretly raising money to increase Server Power for the duration of the Coronavirus lockdown*
 
 
-**Due to the coronavirus lockdown**, we have been seeing a distinct rise in activity on the server, occasionally hitting the current slot limit. The People of the Server have decided to secretly raise a little donation package for Nyan to increase the server capacity for the duration of the lockdown.
+**Due to the worldwide lockdown**, we have been seeing a distinct rise in activity on the server, occasionally hitting the current slot limit. The People of the Server have decided to secretly raise a little donation package for Nyan to increase the server capacity for the duration of the lockdown.
 
 ## Scope:
-We want to collect enough money to increase the slot limit to 32 and the server RAM to 8GB for 2-4 months. This costs about 20€ ($26 US, $30 AU) per month. All funds will go to Nyan’s account regardless of how much we raise. Nitrado does not pay out refunds.
+We want to collect enough money to increase the slot limit to 32 and the server RAM to 8GB for 2-4 months. This costs about 20€ ($22 US, $34 AU) per month. All funds will go to Nyan’s account regardless of how much we raise. Nitrado does not pay out refunds.
 
 ## Strategy:
 Brainiac is providing an account where the money will be held until there is enough to give Nyan a sufficient surprise (think 40€, enough for 2 months). After the first package we can either donate directly or collect it for one-month packages until the project reaches its conclusion.
@@ -14,7 +14,7 @@ Brainiac is providing an account where the money will be held until there is eno
 If you would like to contribute 5-10€ to the project, you can do so using PayPal or credit card. Our host is called Nitrado and here’s how to navigate the website
 
 ### Step 1
-If you don't want to set up a Nitrado account, Brainiac has prepared one for you to login to. Send me a /msg ingame or a PM on discord if you want the password. Either way, go to [https://server.nitrado.net/usa/gameserver-mieten]. If the page displays in German, go to the top right corner to select your language of choice.
+To save some time, Brainiac has prepared an account for you to login to. Send me a /msg ingame or a PM on discord for the password. Go to [https://server.nitrado.net/usa/gameserver-mieten]. If the page displays in German, go to the top right corner to select your language of choice.
 
 ![How to find the Language Settings on Nitrado](https://github.com/wickersoft/nyan-stimulus-package/raw/master/language.png "How to find the Language Settings on Nitrado")
 
